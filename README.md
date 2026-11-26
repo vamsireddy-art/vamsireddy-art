@@ -46,7 +46,7 @@
 </p>
 
 
-<h2 align="center">🚀 My Projects</h2>
+## 🚀 My Projects
 
 <p align="center">
   Here are some of the projects I've built, combining web development,
@@ -85,12 +85,40 @@
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/AI--Powered-102216?style=flat-square" />
-<img src="https://img.shields.io/badge/Student--Marketplace-102216?style=flat-square" />
-<img src="https://img.shields.io/badge/Reuse%20%26%20Recycle-102216?style=flat-square" />
+        <img src="https://img.shields.io/badge/Student--Marketplace-102216?style=flat-square" />
+        <img src="https://img.shields.io/badge/Reuse%20%26%20Recycle-102216?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚙️ Workzy</h3>
+      <p align="center">
+        <a href="https://smart-service-finder-g36f.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-11d452?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        A smart service-finding platform designed to help users discover and connect with suitable service providers easily and efficiently.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Service%20Finder-102216?style=flat-square" />
+        <img src="https://img.shields.io/badge/Smart%20Platform-102216?style=flat-square" />
+        <img src="https://img.shields.io/badge/Web%20Development-102216?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 More Projects</h3>
+      <p align="center">
+        More exciting projects and innovative ideas coming soon!
       </p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  ⭐ More exciting projects coming soon!
+</p>
 
 <p align="center">
   ⭐ More exciting projects coming soon!
